@@ -1,0 +1,6 @@
+adding new file from develop branch
+<<<<<<< HEAD
+adding 2nd line from develop
+=======
+adding 2nd line from master
+>>>>>>> master
